@@ -65,7 +65,6 @@ htmlcov/
 # Backup files
 *~
 *.bak
-*.tmp
 
 # Environment specific
 .env.local
